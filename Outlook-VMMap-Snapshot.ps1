@@ -1,6 +1,9 @@
 # Author: Kevin Johnston
 # Date:   April 7, 2016
 #
+# Read my blogpost linked below for more details:
+# https://ccmcache.wordpress.com/2016/04/07/use-powershell-vmmap-and-debugdiag-to-reproduce-and-identify-a-virtual-memory-fragmentation-issue-causing-performance-problems-in-outlook/
+# 
 # This script performs the following actions:
 #
 # 1. Opens/Displays/Renders and closes an Outlook message for a defined number of cycles
@@ -9,7 +12,7 @@
 # 4. Outputs cycle progress and VMMap information to the console
 #
 # Tested with Outlook 2010*, 2013, and 2016
-# *Please see the note on line 34 regarding method change for Outlook 2010   
+# *Please see the note on line 37 regarding method change for Outlook 2010   
 
 
 $cycles = 500                           # The maximum number of open/close message cycles

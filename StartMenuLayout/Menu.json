@@ -1,0 +1,42 @@
+{
+    "menuGroup": [
+        {
+            "name": "DSTI Common Apps",
+            "members": [
+                "Log Off",
+                "This PC",
+                "Internet Explorer",
+                "Google Chrome",
+                "Calculator",
+                "Word 2013",
+                "Excel 2013",
+                "PowerPoint 2013",
+                "Outlook 2013",
+                "OneNote 2013",
+                "Epicor 10",
+                "Epicor 10 MES",
+                "Skype",
+                "SysAid",
+                "Weather"
+            ]
+        },
+        {
+            "name": "DSTI Job Specific",
+            "members": [
+                "Notepad",
+                "Remote Desktop Manager",
+                "Visual Studio Code",
+                "Wrike for Windows",
+                "PDF-XChange Editor",
+                "Epicor 10 - No SSO",
+                "Epicor 10 MES - TEST",
+                "Epicor 10 TEST",
+                "Amazon Chime",
+                "ShoreTel Communicator",
+                "DWG TrueView 2019 - English",
+                "Edrawings 2018 x64 Edition",
+                "Microsoft Edge"
+            ]
+        }
+    ]
+}
